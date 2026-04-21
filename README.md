@@ -92,7 +92,7 @@ main.exe
 
 > сюда потом вставишь скрин
 
-![app screenshot](assets/screenshot.png)
+![app screenshot](assets/s1.png)
 
 ---
 
