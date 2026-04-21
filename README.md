@@ -89,9 +89,6 @@ main.exe
 ---
 
 ## 🖼 Интерфейс
-
-> сюда потом вставишь скрин
-
 ![app screenshot](assets/s1.png)
 
 ---
